@@ -2,4 +2,4 @@ Simple implementation of the example code for sx127x library for Micropython bet
 
 Using uPyLoRaWAN - https://github.com/lemariva/uPyLoRaWAN)
 
-See modified /config.py for to change pins as apropriate
+See modified /config.py to change pins as apropriate
